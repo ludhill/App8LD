@@ -13,7 +13,7 @@ export default function Datails() {
 }
 
 const styles = StyleSheet.create({
-  container: { padding: 20, flex: 1, justifyContent: 'center' },
+  container: { padding: 20, flex: 1, justifyContent: 'center'  },
   text: { fontSize: 18, marginBottom: 10 }
 });
 

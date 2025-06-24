@@ -20,8 +20,7 @@ export default function Home() {
     <View style={styles.container}>
       <TextInput style={styles.input} placeholder="Nome" onChangeText={setName} value={name} />
       <TextInput style={styles.input} placeholder="Idade" onChangeText={setAge} value={age} keyboardType="numeric" />
-      {/* <Button title="Enviar" onPress={handleNavigate} />
-       */}
+
       <Pressable onPress={handleNavigate}>
         <Text>Enviar</Text>
       </Pressable>

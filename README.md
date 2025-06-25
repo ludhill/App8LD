@@ -1,8 +1,8 @@
-#para rodar
+#para rodar: 
 npm i
 
-#depois
+#depois: 
 npx expo start 
 
-#então
+#então:
 baixa expogo no playstore e scaneia o qrcode para mostar a aplicação
